@@ -3911,6 +3911,7 @@
 #include "modular_coyote\eris\code\mods\_upgrades.dm"
 #include "modular_coyote\eris\code\mods\mod_types.dm"
 #include "modular_sactown\code\obj\structures\mine_structures.dm"
+#include "modular_sactown\code\obj\structures\platforms.dm"
 #include "modular_sactown\code\turfs\walls.dm"
 #include "modular_sunset\code\_globalvars\lists\maintenance_loot.dm"
 #include "modular_sunset\code\game\objects\sunsetmisc.dm"
